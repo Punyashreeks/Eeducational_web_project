@@ -6,3 +6,4 @@ cp
 mv
 cat
 grep
+touch
