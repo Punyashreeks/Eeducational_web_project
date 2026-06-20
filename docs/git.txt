@@ -1,0 +1,5 @@
+Git is a version control system
+Git tracks changes
+Git supports branching
+Git supports merging
+GitHub hosts repositories
