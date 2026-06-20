@@ -2,3 +2,4 @@ Python Basics
 Variables
 Loops
 Functions
+Lists
