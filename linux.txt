@@ -1,0 +1,8 @@
+pwd
+ls
+mkdir
+cd
+cp
+mv
+cat
+grep
